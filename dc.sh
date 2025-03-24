@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Oops, did you mean 'cd'? Here's a map of Washington, D.C.:"
+echo "Oops, did you want to change directory? Too bad. You get this instead."
 cat << "EOF"
                                     ..=.      .=.           ..=    .@+=-. +       .::..+.   :   .=.            ..:.   ..--.   .=..            ..-:..      
  ..--::::::+:::::+:::::+::::::--::::++:::::-::::*-::::::::::::+:-+--%:::-+*::::::::--:+-::::-::::+-:-=:::+::::::--::::::==:::::+-::::::::::::+-:-=-:::::::
